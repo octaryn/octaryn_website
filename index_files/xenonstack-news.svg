@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(1.000000, 8.000000)">
+            <polygon id="Rectangle" fill="#F3F3F3" transform="translate(85.814717, 62.600694) rotate(-45.000000) translate(-85.814717, -62.600694) " points="41.8390229 18.625 129.790412 18.625 129.790412 106.576389 41.8390229 106.576389"></polygon>
+            <g id="Group" transform="translate(79.673611, 11.381944)">
+                <circle id="Oval" fill="#C0C0C0" cx="3.62152778" cy="3.62152778" r="3.62152778"></circle>
+                <circle id="Oval-Copy-6" fill="#C0C0C0" cx="3.62152778" cy="13.96875" r="3.62152778"></circle>
+                <circle id="Oval-Copy" fill="#C8C8C8" cx="13.96875" cy="3.62152778" r="3.62152778"></circle>
+                <circle id="Oval-Copy-7" fill="#C8C8C8" cx="13.96875" cy="13.96875" r="3.62152778"></circle>
+                <circle id="Oval-Copy-2" fill="#DDDDDD" cx="24.3159722" cy="3.62152778" r="3.62152778"></circle>
+                <circle id="Oval-Copy-8" fill="#DDDDDD" cx="24.3159722" cy="13.96875" r="3.62152778"></circle>
+                <circle id="Oval-Copy-3" fill="#E7E6E6" cx="34.6631944" cy="3.62152778" r="3.62152778"></circle>
+                <circle id="Oval-Copy-9" fill="#E7E6E6" cx="34.6631944" cy="13.96875" r="3.62152778"></circle>
+                <circle id="Oval-Copy-4" fill="#F1F1F1" cx="45.0104167" cy="3.62152778" r="3.62152778"></circle>
+                <circle id="Oval-Copy-10" fill="#F1F1F1" cx="45.0104167" cy="13.96875" r="3.62152778"></circle>
+                <circle id="Oval-Copy-5" fill="#FBFBFB" cx="55.3576389" cy="3.62152778" r="3.62152778"></circle>
+                <circle id="Oval-Copy-11" fill="#FBFBFB" cx="55.3576389" cy="13.96875" r="3.62152778"></circle>
+            </g>
+            <g id="Group-Copy" transform="translate(29.489583, 116.406250) scale(-1, 1) translate(-29.489583, -116.406250) translate(0.000000, 107.611111)">
+                <circle id="Oval-Copy-6" fill="#C0C0C0" cx="3.62152778" cy="13.96875" r="3.62152778"></circle>
+                <circle id="Oval-Copy" fill="#C8C8C8" cx="13.96875" cy="3.62152778" r="3.62152778"></circle>
+                <circle id="Oval-Copy-7" fill="#C8C8C8" cx="13.96875" cy="13.96875" r="3.62152778"></circle>
+                <circle id="Oval-Copy-2" fill="#DDDDDD" cx="24.3159722" cy="3.62152778" r="3.62152778"></circle>
+                <circle id="Oval-Copy-8" fill="#DDDDDD" cx="24.3159722" cy="13.96875" r="3.62152778"></circle>
+                <circle id="Oval-Copy-3" fill="#E7E6E6" cx="34.6631944" cy="3.62152778" r="3.62152778"></circle>
+                <circle id="Oval-Copy-9" fill="#E7E6E6" cx="34.6631944" cy="13.96875" r="3.62152778"></circle>
+                <circle id="Oval-Copy-4" fill="#F1F1F1" cx="45.0104167" cy="3.62152778" r="3.62152778"></circle>
+                <circle id="Oval-Copy-10" fill="#F1F1F1" cx="45.0104167" cy="13.96875" r="3.62152778"></circle>
+                <circle id="Oval-Copy-5" fill="#FBFBFB" cx="55.3576389" cy="3.62152778" r="3.62152778"></circle>
+                <circle id="Oval-Copy-11" fill="#FBFBFB" cx="55.3576389" cy="13.96875" r="3.62152778"></circle>
+            </g>
+            <polygon id="Path-39" stroke="#3DBA85" points="9.3125 61.0486111 97.78125 61.0486111 76.0520833 133.479167 62.0833333 97.2638889 9.3125 97.2638889"></polygon>
+            <polygon id="Rectangle-Copy-43" fill="#3DBA85" points="28.9722222 67.2569444 69.3263889 67.2569444 69.3263889 74.5 35.1805556 74.5"></polygon>
+            <polygon id="Rectangle-Copy-44" fill="#3DBA85" points="38.2847222 77.6041667 69.3263889 77.6041667 69.3263889 84.8472222 45.5277778 84.8472222"></polygon>
+            <circle id="Oval" fill="#D35400" cx="120.545139" cy="88.46875" r="10.8645833"></circle>
+            <path d="M52.9468332,12.6904443 L69.0749892,37.7786869 C69.3736413,38.2432569 69.2391383,38.8619707 68.7745683,39.1606229 C68.6132709,39.2643141 68.4255623,39.3194444 68.2338107,39.3194444 L35.9774988,39.3194444 C35.4252141,39.3194444 34.9774988,38.8717292 34.9774988,38.3194444 C34.9774988,38.1276928 35.0326292,37.9399842 35.1363204,37.7786869 L51.2644763,12.6904443 C51.5631285,12.2258743 52.1818423,12.0913712 52.6464124,12.3900234 C52.766915,12.4674894 52.8693672,12.5699416 52.9468332,12.6904443 Z" id="Triangle" fill="#FAB217" transform="translate(52.105655, 25.350694) rotate(46.000000) translate(-52.105655, -25.350694) "></path>
+        </g>
+    </g>
+</svg>
